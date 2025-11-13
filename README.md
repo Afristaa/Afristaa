@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi 👋<br>I'm Afrista Gika, a web development student.<br>I enjoy exploring programming, especially with PHP and Laravel.<br><br>🌱 I'm currently learning: Laravel & basic web development<br>💬 Ask about: anything related to learning to code — I'm still learning too!
 
 
