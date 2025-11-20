@@ -1,4 +1,3 @@
-# About Me:
 Hi 👋I'm Afrista Gika Amanda
 
 ## 🌐 Socials:
