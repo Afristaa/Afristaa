@@ -1,6 +1,5 @@
 # About Me:
-Hi 👋<br>I'm Afrista Gika, a web development student.<br>I enjoy exploring programming, especially with PHP and Laravel.<br><br>  I'm currently learning: Laravel & basic web development<br> Ask about: anything related to learning to code — I'm still learning too!
-
+Hi 👋I'm Afrista Gika Amanda
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.frstaa_) 
