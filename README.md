@@ -1,4 +1,4 @@
-Hi 👋I'm Afrista Gika Amanda
+Hi 👋I'm Afrista Gika
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.frstaa_) 
