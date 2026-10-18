@@ -1,4 +1,4 @@
-# About Me
+# ✨About Me
 Hi I'm Afrista Gika<br>Computer Science Student
 
 
